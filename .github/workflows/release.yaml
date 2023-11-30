@@ -16,7 +16,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "Illia Sokalau"
+          git config user.name "Illia Sokolov"
           git config user.email "isokolov@diversigen.com"
 
       - name: Run chart-releaser
